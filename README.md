@@ -1,3 +1,6 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://employee-promotion-analysis-prediction.streamlit.app/)
+
+**🌐 Live App:** https://employee-promotion-analysis-prediction.streamlit.app/
 # 📊 Employee Promotion Prediction System
 
 An intelligent machine learning system that predicts employee promotion probability and provides comprehensive analytics through an interactive Streamlit dashboard.
@@ -139,5 +142,6 @@ employee-promotion-prediction/
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
 
 ⭐ If you found this project helpful, please give it a star!
