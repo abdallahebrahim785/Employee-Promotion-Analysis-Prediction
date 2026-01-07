@@ -5,8 +5,6 @@
 
 An intelligent machine learning system that predicts employee promotion probability and provides comprehensive analytics through an interactive Streamlit dashboard.
 
-![Dashboard Preview](Employee_Promotion.jpg)
-
 ## 🎯 Project Overview
 
 This project analyzes employee data to identify key factors influencing promotions and builds a predictive model to forecast promotion likelihood. The system helps HR departments make data-driven decisions and understand promotion patterns.
@@ -145,3 +143,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ⭐ If you found this project helpful, please give it a star!
+
